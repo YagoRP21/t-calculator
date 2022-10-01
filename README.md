@@ -28,7 +28,7 @@ For now, this project allows you to perform simple math operations such as:
 * Divisions.	
 
 _Next Improvements: 
-	For upcoming improvements, new functionality (i.e. complex math operations) may be being added in a scientific version of this calculator._
+	For upcoming improvements, new functionality, such as complex math operations on a scientific version of this calculator and input through the keyboard numbers may be being added._
   
 ## 🧩 [Technologies Used](#-technologies-used)
 <table>
