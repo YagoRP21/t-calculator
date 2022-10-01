@@ -1,6 +1,6 @@
 import './styles/main.css'
 
-import { useCallback, useEffect, useState } from 'react'
+import { useState } from 'react'
 import Display from './components/display'
 import KeyPad from './components/keypad';
 import Header from './components/header';
