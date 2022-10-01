@@ -3,7 +3,7 @@
 > Status: version: 1.0.0 released 🚀
 
 # **Index** 📖
-[The Project](#The Project)  |  [What You Can Do](#What You Can Do)  |  [Technologies used](#Technologies used)
+[The Project](#The_Project)  |  [What You Can Do](#What_You_Can Do)  |  [Technologies used](#Technologies_used)
 
 
 ![1](https://user-images.githubusercontent.com/70491775/193423407-c89f5d13-76e3-44a2-8a25-f20b308f6fa1.png)
